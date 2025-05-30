@@ -46,7 +46,7 @@ I'd love to **connect**, **collaborate**, or **get mentored** by like-minded spa
 ### 🌌 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nikita-ryzhenko-206944360/)
-[![Gmail](https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Gmail](https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryzhenkonikita6@gmail.com)
 
 ---
 
